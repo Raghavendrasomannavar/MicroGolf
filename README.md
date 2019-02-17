@@ -1,5 +1,5 @@
-# MiniGolf
-<b>MiniGolf - An Android application demonstrating multithreading </b>
+# MicroGolf
+<b>MicroGolf - An Android application demonstrating multithreading </b>
 
 <ul>
 <li>It is a 2 player game, in which winning shot is randomly picked by the application at the start of each game. </li>
