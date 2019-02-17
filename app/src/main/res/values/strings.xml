@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MicroGolf</string>
+    <string name="winning_hole">Winning Hole</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="start_game">Start Game</string>
+    <string name="shot_selected">Shot Selected</string>
+    <string name="hole_shot">Hole Shot</string>
+    <string name="player1_won_jackpot">Jackpot!!! Player 1 Won</string>
+    <string name="player1_won_catastrophe">Catastrophe*** Player 1 Won</string>
+    <string name="player2_won_jackpot">Jackpot!!! Player 2 Won</string>
+    <string name="player2_won_catastrophe">Catastrophe*** Player 2 Won</string>
+</resources>
