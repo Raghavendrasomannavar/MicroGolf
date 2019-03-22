@@ -18,12 +18,12 @@
 <p>Hole/Shot refers to the numbers in the range of 1-50</p>
 
 <b>Screenshots of the game are as follows -</b><br>
-<p>1. Initial  Screen</p>
+<p>1. Start  Screen</p>
 
 ![](Previews/Capture1.PNG?raw=true "Initial Screen")<br>
-<p>2. Game Started - (Winning shot - 41)</p>
+<p>2. Game Started - (Target shot - 41)</p>
 
 ![](Previews/Capture2.PNG?raw=true "Second Screen")<br>
-<p>3. Game Completion with Player 1 winning</p>
+<p>3. Game Completion with Player 1 hitting target</p>
 
 ![](Previews/Capture3.PNG?raw=true "End Screen")
